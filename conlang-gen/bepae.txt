@@ -1,0 +1,114 @@
+Vowels chosen: e ae oe u o i a 
+Consonants chosen: zh l h m kh t j v dh c d y sh b w n s p 
+Syllable structure chosen: CV
+Word order chosen: VOS
+Adjective position chosen: before noun
+Plural type chosen: plural
+I: si
+you: so
+we: khe
+this: du
+that: khoe
+who: cu
+what: bu
+not: dhu
+all: no
+many: bi
+one: kho
+two: she
+big: zho
+long: de
+small: yoe
+woman: voe
+man: lu
+person: coe
+fish: shu
+bird: shoe
+dog: ti
+louse: cae
+tree: woe
+seed: ma
+leaf: ta
+root: sho
+bark: zhoe
+skin: ho
+flesh: dho
+blood: pu
+bone: mu
+grease: he
+egg: pae
+horn: jae
+tail: zhu
+feather: we
+hair: ce
+head: ja
+ear: zha
+eye: nu
+nose: yu
+mouth: doe
+tooth: yo
+tongue: ca
+claw: sae
+foot: ji
+knee: ba
+hand: na
+belly: khu
+neck: dhae
+breast: dhi
+heart: je
+liver: soe
+drink: vu
+eat: co
+bite: kha
+see: wae
+hear: shi
+know: ne
+sleep: di
+die: se
+kill: hoe
+swim: ya
+fly: ju
+walk: lo
+come: nae
+lie: pe
+sit: yi
+stand: zhe
+give: da
+say: do
+sun: jo
+moon: ve
+star: ha
+water: va
+rain: dhe
+stone: to
+sand: zhi
+earth: joe
+cloud: be
+smoke: bae
+fire: shae
+ash: toe
+burn: pi
+path: li
+mountain: loe
+red: yae
+green: tu
+yellow: mi
+white: sa
+black: hi
+night: wu
+hot: khae
+cold: mo
+full: hu
+new: wi
+good: dae
+round: sha
+dry: poe
+name: mae
+plural particle: zhae
+past particle: ye
+present particle: pa
+future particle: tae
+question particle: vae
+yes: la
+no: boe
+Name Chosen: bepae

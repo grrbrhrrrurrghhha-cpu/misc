@@ -1,0 +1,114 @@
+Vowels chosen: a e u i o ae oe 
+Consonants chosen: k h f v th y zh gh q b r sh ph x t m 
+Syllable structure chosen: CVC
+Word order chosen: VOS
+Adjective position chosen: before noun
+Plural type chosen: affix
+I: ghir
+you: phaek
+we: zheh
+this: phaph
+that: kaeq
+who: biph
+what: xub
+not: fush
+all: bith
+many: huk
+one: ghugh
+two: thuv
+big: vub
+long: shey
+small: ghiy
+woman: bat
+man: yeph
+person: zhit
+fish: xiq
+bird: shub
+dog: thaek
+louse: ghuy
+tree: shoq
+seed: kiv
+leaf: haer
+root: shoev
+bark: keq
+skin: moem
+flesh: boph
+blood: ghegh
+bone: yush
+grease: rav
+egg: fet
+horn: vaem
+tail: rik
+feather: ghaesh
+hair: fuph
+head: bosh
+ear: teth
+eye: phish
+nose: fak
+mouth: ber
+tooth: yuph
+tongue: boem
+claw: ker
+foot: foeh
+knee: ghuv
+hand: thoeph
+belly: hur
+neck: rizh
+breast: rob
+heart: zhif
+liver: yuq
+drink: vih
+eat: mif
+bite: phuth
+see: yash
+hear: bam
+know: buk
+sleep: phaer
+die: bash
+kill: fah
+swim: zheth
+fly: riv
+walk: qoek
+come: ghay
+lie: bet
+sit: keth
+stand: mom
+give: ghoq
+say: har
+sun: thuh
+moon: qosh
+star: toth
+water: qash
+rain: xuy
+stone: haph
+sand: zhaph
+earth: zhash
+cloud: raf
+smoke: roeth
+fire: shaeq
+ash: kak
+burn: haezh
+path: maev
+mountain: shoth
+red: tash
+green: zhuh
+yellow: shuzh
+white: yoeh
+black: mof
+night: yosh
+hot: maeph
+cold: yaesh
+full: mizh
+new: zhuy
+good: rush
+round: boegh
+dry: rov
+name: kuq
+plural particle: xagh
+past particle: shex
+present particle: zhaeph
+future particle: qoeh
+question particle: phaeh
+yes: yigh
+no: boeh
+Name Chosen: xuyghugh
