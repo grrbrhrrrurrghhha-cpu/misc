@@ -1,5 +1,4 @@
 code = input()
-normal = True
 error = False
 while normal:
 	normal = False
