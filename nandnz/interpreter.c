@@ -1,5 +1,4 @@
-long int code[] = {0, 0, -1};
-unsigned long int ip;
+long int code[] = {0, 0, -1}, ip;
 
 int main(void)
 {
