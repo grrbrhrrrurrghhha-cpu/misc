@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     }
     c = getc(program);
   }
-  printf("}\n");
+  printf("return 0;}\n");
   
   return 0;
 }
