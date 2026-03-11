@@ -89,6 +89,7 @@ int main(void)
     {
       putchar(grid[y][x] ? '1' : '0');
     }
+    putchar('\n');
   }
 #endif
   
